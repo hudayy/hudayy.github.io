@@ -4,7 +4,7 @@ const context = canvas.getContext("2d");
 
 const frameCount = 45;
 const currentFrame = index => (
-  `https://raw.githubusercontent.com/hudayy/huday.net-images/main/${index.toString().padStart(4, '0')}.png?token=GHSAT0AAAAAAB2772ZM5VYKZ55FIX5UP7OOY4J42RQ`
+  `https://hudayy.github.io/549888/${index.toString().padStart(4, '0')}.png`
 )
 
 const preloadImages = () => {
