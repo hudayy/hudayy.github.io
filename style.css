@@ -2,8 +2,8 @@
 
 body {
   background: linear-gradient(-45deg, #795bff, rgb(255, 0, 217), #ff3131);
-  background-size: 400% 400%;
-  animation: gradient 5s ease infinite;
+  background-size: 10000% 10000%;
+  animation: gradient 4s ease infinite;
   height: 100vh;
   color: #ddd;
   font-family: "Courier New", Courier, monospace;
