@@ -10,6 +10,7 @@ const numberToArrow = {
 };
 
 document.getElementById('numberInput').addEventListener('input', function() {
+    console.log('Input event triggered');
     const input = this.value;
     let output = '';
 
